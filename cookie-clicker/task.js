@@ -12,6 +12,3 @@ clickerCounter.addEventListener('click', function() {
     };
 
 });
-
-
-
